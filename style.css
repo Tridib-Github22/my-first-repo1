@@ -10,10 +10,11 @@ body {
    }
    .yellow-bg {
        background-color: yellow;
-          }
-          .white-text {
-              color: white;
-          }
-          #blue-border {
+         }
+        .white-text { color: white;
+        }
+        #blue-border {
               border: 10x solid blue;
+          }
+          p {color: white;
           }
