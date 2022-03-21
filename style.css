@@ -1,6 +1,19 @@
 body {
     background-color: purple;
    }
+   div {
+       background-color: purple;
+       height: 300px;
+   }
    h1 {
        color: white;
    }
+   .yellow-bg {
+       background-color: yellow;
+          }
+          .black-text {
+              color: black;
+          }
+          #blue-border {
+              border: 10x solid blue;
+          }
